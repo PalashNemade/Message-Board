@@ -1,0 +1,10 @@
+
+			**** Use the following example to insert user into database ****
+
+
+INSERT INTO users VALUES("palash",md5("palash"),"Palash Nemade","palash.nemade@mavs.uta.edu");
+
+INSERT INTO users VALUES("johnny",md5("varun"),"Varun John","varun.john@gmail.com");
+
+1. username-palash, password-palash
+2. username-johnny, password-varun
